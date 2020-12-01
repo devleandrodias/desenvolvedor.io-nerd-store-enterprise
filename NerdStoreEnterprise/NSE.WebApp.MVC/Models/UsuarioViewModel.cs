@@ -38,7 +38,7 @@ namespace NSE.WebApp.MVC.Models
 
         public UsuarioToken UsuarioToken { get; set; }
 
-        //public ResponseResult ResponseResult { get; set; }
+        public ResponseResult ResponseResult { get; set; }
     }
 
     public class UsuarioToken
